@@ -1,6 +1,3 @@
 # momentum-clone
 
--[x] Clock
--[x] User Name
--[x] Todo List
--[x] Ramdom Cat Image
+- Clock, User Name, Todo List, Random Cat Image, Weather API
